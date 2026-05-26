@@ -16,3 +16,17 @@ This project focuses on analyzing sales performance, profitability, customer beh
 - Customer Analysis
 - Product Performance
 - Loss-Making States
+
+## 📷 Query Previews
+
+### 🌍 Region Wise Sales & Profit Analysis
+
+![Region Analysis](regional-analysis.png)
+
+### 📦 Category Wise Sales & Profit Analysis
+
+![Category Analysis](category-analysis.png)
+
+### 📈 Monthly Sales Trends & Growth Analysis
+
+![Monthly Sales Growth](monthly-sales-growth.png)
